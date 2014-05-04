@@ -1,10 +1,12 @@
-New Library
-===========
+onScroll
+========
+
+A scroll binding library with mobile support.
 
 Usage
 -----
 
-Installation `npm install`
+Installation `npm install onscroll`
 
 Development
 -----------
