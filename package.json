@@ -23,7 +23,7 @@
         "sinon": "~1.8.2"
     },
     "license": "MIT",
-    "keywords": [],
+    "keywords": ["scroll", "on3"],
     "scripts": {
       "test": "grunt test"
     }
