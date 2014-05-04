@@ -6,7 +6,7 @@
     "main":         "src/main.js",
     "repository": {
       "type": "git",
-      "url": ""
+      "url": "https://github.com/bpeacock/onScroll"
     },
     "dependencies": {
         "unopinionate": "0.0.x"
