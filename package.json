@@ -1,15 +1,15 @@
 {
-    "name":         "",
+    "name":         "onScroll.js",
     "description":  "",
-    "version":      "",
-    "author":       "",
+    "version":      "0.0.1",
+    "author":       "Brian Peacock",
     "main":         "src/main.js",
     "repository": {
       "type": "git",
       "url": ""
     },
     "dependencies": {
-        
+        "unopinionate": "0.0.x"
     },
     "devDependencies": {
         "grunt":                "~0.4.2",

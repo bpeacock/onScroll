@@ -4,7 +4,7 @@ module.exports = function(grunt) {
         browserify: {
             dist: {
                 files: {
-                    'dist/lib.js':          ['src/main.js'],
+                    'dist/lib.js':          ['onScroll.js'],
                     'examples/build.js':    ['examples/example.js']
                 },
                 options: {
@@ -14,7 +14,7 @@ module.exports = function(grunt) {
             },
             test: {
                 files: {
-                    'test/build.js':        ['test/test.js']
+                    'test/build.js': ['test/test.js']
                 },
                 options: {
                     transform: ['grunt-less-browserify'],
