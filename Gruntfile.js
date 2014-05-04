@@ -23,7 +23,7 @@ module.exports = function(grunt) {
             }
         },
         watch: {
-            files: [ "src/**/*", "examples/example.js"],
+            files: [ "onScroll.js", "examples/example.js"],
             tasks: [ 'browserify:dist' ]
         },
         jshint: {
