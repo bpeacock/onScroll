@@ -3,7 +3,7 @@
   "description": "A scroll event binding with mobile support.",
   "version": "0.0.2",
   "author": "Brian Peacock",
-  "main": "src/main.js",
+  "main": "onScroll.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/bpeacock/onScroll"
